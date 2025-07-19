@@ -19,20 +19,16 @@
 
 ### 🚀 Tech Stack & Skills
 
+- **Specialties:** Full-Stack Web Development, SEO Optimization, Web Tools
 - **Languages:** JavaScript, PHP, C#
 - **Frameworks & Tools:** React, jQuery, Bootstrap, .NET Framework
-- **Specialties:** Full-Stack Web Development, SEO Optimization, Web Tools
 
 ---
 
-### 📈 GitHub Activity (Stats made simple)
+### 📈 GitHub Activity
 
-- 🔢 **Most used languages in projects:**  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devghanian&layout=compact&theme=tokyonight)
-
-- 🔁 **General contribution activity:**  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Devghanian&theme=tokyonight)
-
-- 📊 **Overall GitHub stats:**  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Devghanian&show_icons=true&theme=tokyonight&hide=issues&count_private=true)
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devghanian&layout=compact&theme=tokyonight" />
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=Devghanian&theme=tokyonight" />
+</p>
 
