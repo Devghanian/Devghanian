@@ -22,11 +22,11 @@
 
 ### 🚀 Tech Stack & Skills
 
-```ts
-Languages:     JavaScript | PHP | C#
-Frameworks:    React | jQuery | Bootstrap | .NET Framework
+- **Languages:** JavaScript | PHP | C#
+- **Frameworks:** React | jQuery | Bootstrap | .NET Framework
 
 ---
+
 ### 📈 GitHub Stats
 
 <p align="center">
