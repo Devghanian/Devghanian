@@ -24,6 +24,6 @@
 - **Frameworks & Tools:** React, jQuery, Bootstrap, .NET Framework
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Code%20on%20and%20Prosper!-💙-blue?style=for-the-badge" alt="Code on and Prosper Badge"/>
+  <img src="https://img.shields.io/badge/Code%20on%20and%20Prosper!-❤-red?style=for-the-badge" alt="Code on and Prosper Badge"/>
 </div>
 
