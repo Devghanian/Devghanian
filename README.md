@@ -23,17 +23,7 @@
 - **Languages:** JavaScript, PHP, C#
 - **Frameworks & Tools:** React, jQuery, Bootstrap, .NET Framework
 
----
-
-### 📈 GitHub Activity (Live Stats)
-
-#### 🔢 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devghanian&layout=compact&theme=tokyonight)
-
-#### 🔁 Contribution Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Devghanian&theme=tokyonight)
-
-#### 📊 General Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Devghanian&show_icons=true&theme=tokyonight&hide=issues&count_private=true)
-
+<div align="center">
+  <img src="https://img.shields.io/badge/Code%20on%20and%20Prosper!-💙-blue?style=for-the-badge" alt="Code on and Prosper Badge"/>
+</div>
 
