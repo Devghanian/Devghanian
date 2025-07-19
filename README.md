@@ -25,10 +25,15 @@
 
 ---
 
-### 📈 GitHub Activity
+### 📈 GitHub Activity (Live Stats)
 
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devghanian&layout=compact&theme=tokyonight" />
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=Devghanian&theme=tokyonight" />
-</p>
+#### 🔢 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devghanian&layout=compact&theme=tokyonight)
+
+#### 🔁 Contribution Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Devghanian&theme=tokyonight)
+
+#### 📊 General Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Devghanian&show_icons=true&theme=tokyonight&hide=issues&count_private=true)
+
 
